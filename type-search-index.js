@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"myHealthCareSystem","l":"Address"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"myHealthCareSystem","l":"BirthDate"},{"p":"myHealthCareSystem","l":"EMHRecord"},{"p":"myHealthCareSystem","l":"EMRecord"},{"p":"myHealthCareSystem","l":"MedicalCalculator"},{"p":"myHealthCareSystem","l":"Name"}];updateSearchResults();
